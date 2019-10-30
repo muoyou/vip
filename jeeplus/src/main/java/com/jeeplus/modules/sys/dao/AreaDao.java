@@ -14,5 +14,5 @@ import com.jeeplus.modules.sys.entity.Area;
  */
 @MyBatisDao
 public interface AreaDao extends TreeDao<Area> {
-	
+	//123
 }
